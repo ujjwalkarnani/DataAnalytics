@@ -9,4 +9,4 @@ EDA using Python libraries to gather useful insights that help in improving sale
 
   * Identified potential customers across various states, genders, occupations & age groups.
 
-  * Improved sales by gathering insights of most selling products which can be helpful for business to plan the future inventory meet demands
+  * Improved sales by gathering insights of most selling products which can be helpful for business to plan the future inventory accordingly to meet customer demands
